@@ -1,0 +1,13 @@
+div h1{
+ font-size: 3rem;
+ background-color: #ff69b4;
+ color: white;
+ text-shadow: 2px 4px red;
+}
+div p{
+ border: 2px solid black;
+   max-width: 300px;
+   padding: 5px;
+   font-size: 20px;
+   text-align: justify;
+}
